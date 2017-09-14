@@ -1,0 +1,81 @@
+
+@{
+    <script src="~/Scripts/UserJS.js"></script>
+
+    ViewData["Title"] = "Add User";
+}
+
+<h2 style="text-align:center">Add User</h2>
+<br />
+<form>
+    <div class="alert alert-danger fade in " id="userErrorMessage" hidden="hidden"></div>
+
+    <br />
+    <div class="row">
+
+        <div class="col-sm-3"></div>
+
+        <div class="col-sm-6">
+
+            <fieldset>
+                <legend>User Details</legend>
+
+                <div class="row">
+                    <div class="col-sm-4">
+                        <label>User Name:</label>
+                    </div>
+                    <div class="col-sm-8">
+                        <input type="text" id="txtUserName"/>
+                    </div>
+                </div>
+                <br />
+
+                <div class="row">
+                    <div class="col-sm-4">
+                        <label>Full Name:</label>
+                    </div>
+                    <div class="col-sm-8">
+                        <input type="text" id="txtFullName"/>
+                    </div>
+                </div>
+                <br />
+
+                <div class="row">
+                    <div class="col-sm-4">
+                        <label>Email:</label>
+                    </div>
+                    <div class="col-sm-8">
+                        <input type="email" id="txtEmail" />
+                    </div>
+                </div>
+                <br />
+
+                <div class="row">
+                    <div class="col-sm-4">
+                        <label>Password:</label>
+                    </div>
+                    <div class="col-sm-8">
+                        <input type="password" id="txtPassword"/>
+                    </div>
+                </div>
+                <br />
+
+            </fieldset>
+
+        </div>
+        <div class="col-sm-3"></div>
+
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6">
+            <input type="submit" value="Clear" id="btnClear" class="btn" onclick="clearUser();" />
+        </div>
+
+        <div class="col-sm-6" style="text-align:right;">            
+            <input type="submit" value="Add" id="btnAdd" class="btn" onclick="return validateUserInput();" />
+        </div>
+
+    </div>
+
+</form>
