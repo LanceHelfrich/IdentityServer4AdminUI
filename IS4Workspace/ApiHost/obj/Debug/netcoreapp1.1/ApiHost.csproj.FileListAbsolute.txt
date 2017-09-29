@@ -1,0 +1,9 @@
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\ApiHost\bin\Debug\netcoreapp1.1\ApiHost.deps.json
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\ApiHost\bin\Debug\netcoreapp1.1\ApiHost.runtimeconfig.json
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\ApiHost\bin\Debug\netcoreapp1.1\ApiHost.runtimeconfig.dev.json
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\ApiHost\bin\Debug\netcoreapp1.1\ApiHost.dll
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\ApiHost\bin\Debug\netcoreapp1.1\ApiHost.pdb
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\ApiHost\obj\Debug\netcoreapp1.1\ApiHost.AssemblyInfo.cs
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\ApiHost\obj\Debug\netcoreapp1.1\ApiHost.dll
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\ApiHost\obj\Debug\netcoreapp1.1\ApiHost.pdb
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\ApiHost\obj\Debug\netcoreapp1.1\ApiHost.csprojResolveAssemblyReference.cache

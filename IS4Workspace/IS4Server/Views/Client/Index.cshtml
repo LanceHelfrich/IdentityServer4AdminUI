@@ -1,0 +1,57 @@
+@model  IS4Server.ViewModels.WebClients
+ 
+
+@{
+    ViewData["Title"] = "Clients";
+
+    <script>
+    $(document).ready(function () {
+        $("#clientsTable").DataTable();
+    });
+    </script>
+
+    <style>
+        .glyphicon {
+            width: 30px;
+        }
+       
+    </style>
+
+}
+
+<h2 style="text-align:center">Clients</h2>
+
+<table id="clientsTable">
+    <thead>
+        <tr>
+            <th>Client ID</th>
+            <th>Client Name</th>
+            <th>Client Secret</th>
+            <th>Client Scope</th>
+        </tr>
+    </thead>
+
+    <tbody>  
+        
+        @{
+            try {
+                    <tr>
+                        <td>@Model.ClientId </td>
+                        <td>@Model.ClientName </td>
+                        <td>@Model.ClientSecret </td>
+                        <td>@Model.ClientScope </td>
+                    </tr>
+            }
+            catch (Exception)
+            {
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                </tr>
+            }
+        }
+
+    </tbody>
+</table>

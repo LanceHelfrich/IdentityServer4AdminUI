@@ -1,0 +1,9 @@
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\IS4Server\bin\Debug\netcoreapp1.1\IS4Server.deps.json
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\IS4Server\bin\Debug\netcoreapp1.1\IS4Server.runtimeconfig.json
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\IS4Server\bin\Debug\netcoreapp1.1\IS4Server.runtimeconfig.dev.json
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\IS4Server\bin\Debug\netcoreapp1.1\IS4Server.dll
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\IS4Server\bin\Debug\netcoreapp1.1\IS4Server.pdb
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\IS4Server\obj\Debug\netcoreapp1.1\IS4Server.AssemblyInfo.cs
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\IS4Server\obj\Debug\netcoreapp1.1\IS4Server.dll
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\IS4Server\obj\Debug\netcoreapp1.1\IS4Server.pdb
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\IS4Server\obj\Debug\netcoreapp1.1\IS4Server.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\WebClient\bin\Debug\netcoreapp1.1\WebClient.deps.json
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.json
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\WebClient\bin\Debug\netcoreapp1.1\WebClient.runtimeconfig.dev.json
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\WebClient\bin\Debug\netcoreapp1.1\WebClient.dll
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\WebClient\bin\Debug\netcoreapp1.1\WebClient.pdb
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\WebClient\obj\Debug\netcoreapp1.1\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\WebClient\obj\Debug\netcoreapp1.1\WebClient.AssemblyInfo.cs
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\WebClient\obj\Debug\netcoreapp1.1\WebClient.dll
+C:\Users\LHELFICH\documents\visual studio 2017\Projects\IS4Workspace\WebClient\obj\Debug\netcoreapp1.1\WebClient.pdb

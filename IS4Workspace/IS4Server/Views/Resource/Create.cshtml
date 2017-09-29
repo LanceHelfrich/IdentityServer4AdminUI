@@ -1,0 +1,67 @@
+﻿@model IS4Server.ViewModels.WebAPIResources
+
+@{
+    ViewData["Title"] = "Add Resource";    
+    <script src="~/Scripts/ResourceJS.js"></script>
+}
+
+<form asp-action="Create">
+
+    <h2 style="text-align:center">Add Resource</h2>
+
+    <div class="alert alert-danger alert-dismissable fade in" id="resourceErrorMessage" hidden></div>
+    <br />
+    <div class="row">
+        <h4>Resource Details</h4>
+        <hr />
+        
+            <div class="row">
+                <div class="col-sm-2">
+                    <label asp-for="Name" class="control-label"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="Name" class="form-control" id="Name" />
+                </div>
+            </div>
+            <br />
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <label asp-for="DisplayName" class="control-label"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="DisplayName" class="form-control" id="DisplayName" />
+                </div>
+            </div>
+            <br />
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <label asp-for="Scope" class="control-label"></label>
+                </div>
+                <div class="col-sm-8">
+                    <input asp-for="Scope" class="form-control" id="Scope" />
+                </div>
+            </div>
+            <br />
+
+
+            <div class="row">
+                <div class="col-sm-4">
+                    <a class="btn btn-default" onclick="clearResource()">Clear</a>
+                </div>
+
+                <div class="col-sm-4" style="text-align:center">
+                    <a href="Index" class="btn btn-default" >Cancel</a>
+                </div>
+
+                <div class="col-sm-4" style="text-align:right">
+                    <input type="submit" value="Save" class="btn btn-default" onclick="return validateInput();" />
+
+                </div>
+
+            </div>
+
+    </div>
+
+</form>
